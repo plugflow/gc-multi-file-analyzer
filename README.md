@@ -1,4 +1,4 @@
-# ⚗️ GC Trace Analyzer
+# ⚗️ GC Multi File Analyzer
 
 A web app for analyzing gas chromatography traces, matching peaks to known compounds, and exporting publication-ready data tables.
 
